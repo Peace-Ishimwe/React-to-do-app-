@@ -12,13 +12,13 @@ const About = () => {
     <>
       <Container>
         <p style={{ fontSize: "1.3rem" }}>
-          <b>Max Todos</b> is an open-source project started by Usman Sabuwala.
+          <b>Peace Todos</b> is an open-source project started by Usman Sabuwala.
           This app focuses on the ease of use of a Todo App. Write your todos,
           change some settings, Enjoy!
         </p>
         <h2>Contact</h2>
         <a
-          href="https://twitter.com/MaxProgramming1"
+          href="#"
           style={{
             color: "#1CA0F1",
             textDecoration: "none",
@@ -30,7 +30,7 @@ const About = () => {
           <Twitter fontSize="large" />
         </a>
         <a
-          href="https://github.com/max-programming"
+          href="https://github.com/Peace-Ishimwe"
           style={{
             color: "#24292E",
             textDecoration: "none",
@@ -42,7 +42,7 @@ const About = () => {
           <GitHub fontSize="large" />
         </a>
         <a
-          href="https://www.facebook.com/usman.sabuwala.7"
+          href="#"
           style={{
             color: "#0D8BF0",
             textDecoration: "none",
@@ -54,7 +54,7 @@ const About = () => {
           <Facebook fontSize="large" />
         </a>
         <a
-          href="https://youtube.com/MaxProgramming"
+          href="#"
           style={{
             color: "#FD0000",
             textDecoration: "none",
@@ -66,7 +66,7 @@ const About = () => {
           <YouTube fontSize="large" />
         </a>
         <a
-          href="https://www.instagram.com/usmansabuwala7/"
+          href="#"
           style={{
             color: "#CD2E96",
             textDecoration: "none",
